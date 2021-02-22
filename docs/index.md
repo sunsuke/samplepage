@@ -1,13 +1,22 @@
-## Welcome to GitHub Pages
+## Composerについて
+ここではComposerについての説明から、実際にcomposer を使ってlaravelのプロジェクトを作成するところまで解説します。
 
-You can use the [editor on GitHub](https://github.com/sunsuke/samplepage/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<details>
+<summary>Qiita(キータ)は、プログラマのための技術情報共有サービスです。</summary>
+プログラミングに関することをどんどん投稿して、知識を記録、共有しましょう。
+Qiitaに投稿すると、自分のコードやノウハウを見やすい形で残すことができます。
+技術情報はテキストファイルへのメモではなく、タグを付けた文章、シンタックスハイライトされたコードで保存することで初めて再利用可能な知識になる、そうQiitaでは考えています。
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### composer とは
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### composer をインストール
+
+
+
+### composer をインストール
 ```markdown
 Syntax highlighted code block
 
@@ -26,12 +35,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunsuke/samplepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
